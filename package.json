@@ -1,0 +1,17 @@
+{
+  "name": "projectbackend",
+  "version": "1.0.0",
+  "description": "hello git",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": [
+    "hello"
+  ],
+  "author": "Treesha Rani Robi Das",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.19.2"
+  }
+}
